@@ -1,0 +1,57 @@
+body {
+	font-family: 'Open Sans';
+}
+
+.header-nav {
+	padding-top: 0px;
+}
+
+.letterSearch {
+	margin: 5px;
+	font-size: 1.5em;
+	font: arial, sans-serif;
+}
+
+.headerImage {
+	display:block;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mainContent {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.ingredientList {
+	text-align: left;
+}
+
+.ingredientListItems {
+	list-style-position:inside;
+	border-bottom: 1px solid #CCCCCC;
+	padding: 10px;
+}
+
+.searchInput {
+	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+.searchButton {
+	display: block;
+}
+
+.btn-circle {
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	padding: 6px 0;
+	font-size: 12px;
+	line-height: 1.42;
+	border-radius: 15px;
+}
